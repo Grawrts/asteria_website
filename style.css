@@ -1,0 +1,12 @@
+.navbar{
+   background-color:black;
+   color:black;
+   }
+.nav-link{
+    color:aliceblue;
+    font-family:'Gill Sans';
+}
+.navbar-brand{
+    color:aliceblue;
+    font-family:didot;
+}
