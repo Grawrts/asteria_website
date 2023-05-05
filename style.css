@@ -10,3 +10,13 @@
     color:aliceblue;
     font-family:didot;
 }
+h3{
+    background-color: black;
+    color:aliceblue;
+    font-family:didot;
+}
+.text-body-secondary{
+    color:aliceblue;
+    font-family: 'Gill Sans';
+    opacity: 75%
+}
